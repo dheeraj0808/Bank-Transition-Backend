@@ -280,7 +280,7 @@ This project is licensed under the ISC License.
 
 ## 👥 Authors
 
-- **Dheeraj Kumar** - [dheeraj0808](https://github.com/dheeraj0808)
+- **Dheeraj Singh** - [dheeraj0808](https://github.com/dheeraj0808)
 
 ## 🔗 Links
 
