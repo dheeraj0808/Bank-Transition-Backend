@@ -15,6 +15,8 @@ async function userRegisterController(req, res) {
             })
     }
     const user = await userModel.create({ name, email, password })
+// token ko hame cookies me set karna hoga for that we need to install cookie-parser package
+// npm install cookie-parser
 
 
     const token = jwt.sign({ id: user._id }, process.env.JWT_SECRET, { expiresIn: '1d' })

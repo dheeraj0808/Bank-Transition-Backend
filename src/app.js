@@ -19,3 +19,6 @@ app.use("/api/auth", authRouter);
 
 
 module.exports = app;
+// app.js ka mainly 2 kaam hota hhai :
+// 1. server ko create karna
+// 2. server ko configure karna - middleware aur api kaun kaun se use kar rhe ho
